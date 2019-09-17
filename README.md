@@ -30,7 +30,7 @@ Background
  - Abstract repeated Steps
  - Add Unhappy Path Tests
  - Add extra assertions in addition to url check
- - Remove hardcoded the tests
+ - Remove hardcoded tests
  - Add other browser support in the framework in addition to Chrome
  - Learn how to use Kotlin correctly (I am completely new to Kotlin)
  - Big Refresher for myself on Selenium webdriver (I have been solely focused on iOS native for too long) 
